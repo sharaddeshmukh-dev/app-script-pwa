@@ -1,0 +1,27 @@
+{
+  "name": "Sharad Test App",
+  "short_name": "Sharad App",
+
+  "start_url": "https://script.google.com/a/macros/holcim.com/s/AKfycbzUjRKS1q1No3l-NZ9aPCnSbF98hcVJj4rcFPGO8j1roFTOs5cL0oQDTX8iYfT0W_czYw/exec",
+
+  "display": "standalone",
+
+  "background_color": "#ffffff",
+
+  "theme_color": "#ffffff",
+
+  "icons": [
+    {
+      "src": "https://YOUR-USERNAME.github.io/apps-script-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://YOUR-USERNAME.github.io/apps-script-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
